@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "surwsmp2.aternos.me",
+    "ip": "surwsmp2.aternos.me:58588",
     "port": 58588,
     "version": "",
     "try-creative": false
